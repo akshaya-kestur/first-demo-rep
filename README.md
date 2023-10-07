@@ -1,4 +1,6 @@
 # first-demo-rep
 first git repo
 <br>
-Author-akshaya K B
+Author-akshaya Kesthuru 
+
+visual studio
